@@ -23,5 +23,5 @@ regions.json file with regions
  To start tests:
 
  enter the solution folider in the terminal (TravelTimeTask)
- Type: sbt
+ Type: sbt,
  Type: test
