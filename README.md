@@ -3,9 +3,17 @@
 
  Starting the program with a terminal:
 
- In order to start the program, the user must have sbt installed.
- sbt is a build tool used for this assigment.
- If the user has sbt, first enter the solution folider in the terminal (TravelTimeTask)
+Requirements:
+
+In order to start the program, the user must have sbt installed.
+sbt is a build tool used for this assigment.
+locations.json file with locations
+regions.json file with regions
+ 
+
+ To run the program:
+
+ First enter the solution folider in the terminal (TravelTimeTask)
  Then type: sbt
  Then type: compile
  Then type: run
