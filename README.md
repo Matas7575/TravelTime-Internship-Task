@@ -7,7 +7,7 @@ Requirements:
 
 In order to start the program, the user must have sbt installed.
 sbt is a build tool used for this assigment.
-locations.json file with locations
+locations.json file with locations,
 regions.json file with regions
  
 
