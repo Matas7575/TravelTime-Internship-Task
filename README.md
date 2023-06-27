@@ -14,9 +14,9 @@ regions.json file with regions
  To run the program:
 
  First enter the solution folider in the terminal (TravelTimeTask)
- Then type: sbt
- Then type: compile
- Then type: run
+ Then type: sbt,
+ Then type: compile,
+ Then type: run,
  The program should then execute.
 
 
